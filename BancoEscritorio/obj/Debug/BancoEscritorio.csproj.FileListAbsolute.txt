@@ -16,3 +16,15 @@ C:\Users\jfpaz\source\repos\BancoEscritorio\obj\Debug\BancoEscritorio.Cliente.re
 C:\Users\jfpaz\source\repos\BancoEscritorio\obj\Debug\BancoEscritorio.Transferencia.resources
 C:\Users\jfpaz\source\repos\BancoEscritorio\obj\Debug\BancoEscritorio.Registro.resources
 C:\Users\jfpaz\source\repos\BancoEscritorio\obj\Debug\BancoEscritorio.AgregaFondos.resources
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.AgregaFondos.resources
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.Auditor.resources
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.Cliente.resources
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.Form1.resources
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.Properties.Resources.resources
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.Registro.resources
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.Transferencia.resources
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.exe
+C:\Users\Lenovo\Documents\ECI\Noveno\MCSW\BancosMCSW\BancoEscritorio\obj\Debug\BancoEscritorio.pdb

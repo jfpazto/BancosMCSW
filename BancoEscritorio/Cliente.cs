@@ -45,14 +45,14 @@ namespace BancoEscritorio
                 id = System.Convert.ToInt32(i.id);
                 nombre = System.Convert.ToString(i.nombre);
                 apellido = System.Convert.ToString(i.apellido);
-                saldo= System.Convert.ToString(i.saldo);
+                saldo= System.Convert.ToString(Abs(i.saldo)); //Se supone que le aplica valor absoluto para evitar transacciones negativas
                 fecha = System.Convert.ToDateTime(i.fecha);
                 cuenta = System.Convert.ToString(i.cuenta);
                 clave = System.Convert.ToString(i.clave);
                 rol = System.Convert.ToString(i.rol);
                 celular = System.Convert.ToString(i.celular);
                 lb_nombre.Text = System.Convert.ToString(i.nombre);
-                lb_saldo.Text= System.Convert.ToString(i.saldo);
+                lb_saldo.Text= System.Convert.ToString(Abs(i.saldo)); //Se supone que le aplica valor absoluto para evitar transacciones negativas
                
             }
             

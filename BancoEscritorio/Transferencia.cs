@@ -108,7 +108,7 @@ namespace BancoEscritorio
                 int id = System.Convert.ToInt32(i.id);
                 string nombre = System.Convert.ToString(i.nombre);
                 string apellido = System.Convert.ToString(i.apellido);
-                string saldo = System.Convert.ToString(i.saldo);
+                string saldo = System.Convert.ToString(Abs(i.saldo)); //Se supone que lo deja e valor absoluto por si entra negativo
                 DateTime fecha = System.Convert.ToDateTime(i.fecha);
                 string cuenta = System.Convert.ToString(i.cuenta);
                 string clave = System.Convert.ToString(i.clave);
